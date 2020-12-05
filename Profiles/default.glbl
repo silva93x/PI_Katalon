@@ -9,4 +9,9 @@
       <initValue>' https://api.covid19api.com/country/'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>jsonData</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
