@@ -6,12 +6,22 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>' https://api.covid19api.com/country/'</initValue>
-      <name>url</name>
+      <initValue>''</initValue>
+      <name>jsonData</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[]</initValue>
+      <name>countries</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>countriesSize</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>''</initValue>
-      <name>jsonData</name>
+      <name>Country</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
