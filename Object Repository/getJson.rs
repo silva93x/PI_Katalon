@@ -31,13 +31,6 @@
       <masked>false</masked>
       <name>country</name>
    </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>937dcbda-919c-45cc-b7f0-d561bab7c41a</id>
-      <masked>false</masked>
-      <name>json</name>
-   </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
 import com.kms.katalon.core.testobject.RequestObject
